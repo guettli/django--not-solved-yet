@@ -1,5 +1,7 @@
 # The Django Webframework is great. But some things are not solved yet
 
+This page is me doing brainstorming in an open and public fashion. Feedback is welcome.
+
 # Row based permissions
 
 You can use [Gardian](https://django-guardian.readthedocs.io/en/stable/) which is slow.
