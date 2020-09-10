@@ -31,3 +31,11 @@ How to solve this?
 
 There is DjangoCMS and Wagtail. But both are too heavy for me. It would be cool to have a really lightweight CMS app for Django.
 
+# Multiple forms on one page
+
+Django's form library is great. You can create a form from a database model very easily. But if you have a page which contains several forms, then this pattern needs additional effort.
+
+I found [htmx](https://htmx.org/) to update parts of a page.
+
+It would be nice to have an official/documented/django way to do this.
+
