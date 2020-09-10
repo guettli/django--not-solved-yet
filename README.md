@@ -24,3 +24,8 @@ by the other 19 customers.
 How to solve this?
 
 [EAV](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model) is one solution
+
+# Simple open source CMS based on Django
+
+There is DjangoCMS and Wagtail. But both are too heavy for me. It would be cool to have a really lightweight CMS app for Django.
+
